@@ -16,5 +16,7 @@ pip install beautifulsoup4
 python filmsToWatchScraper.py
 ```
 
+#Dataset
+[filmsToWatch.csv](https://zenodo.org/api/files/213ebb8b-b830-4484-bf7f-12ce7a996016/filmsToWatch.csv)
 ## Licencia
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
